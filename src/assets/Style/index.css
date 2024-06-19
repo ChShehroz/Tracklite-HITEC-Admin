@@ -1,0 +1,39 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+body {
+  background-color: #fffcf1;
+  font-family: "Inter", sans-serif;
+}
+#dashboard {
+  box-shadow: 0 20px 27px 0 rgba(0, 0, 0, 0.05);
+}
+.boxShadow {
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 20px 27px 0px;
+}
+
+.psOver {
+  overflow: hidden;
+  overflow-anchor: none;
+  -ms-overflow-style: none;
+  touch-action: auto;
+  z-index: 1;
+}
+
+.psOver::-webkit-scrollbar-track {
+  background-color: #cdd2d6;
+  border-radius: 6px;
+}
+.psOver::-webkit-scrollbar {
+  width: 8px;
+  background-color: transparent;
+}
+.psOver::-webkit-scrollbar-thumb {
+  background-color: #aaa;
+  border-radius: 6px;
+}
+
+.psOver:hover {
+  overflow: auto;
+}
