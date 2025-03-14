@@ -1,30 +1,33 @@
-# 🎓 TrackLite – HITEC University Issue Tracking System  
+# 🎓 TrackLite – HITEC University Admin Dashboard  
 
 ## 📌 Project Overview  
-TrackLite is a comprehensive issue tracking system designed for HITEC University to streamline the resolution of university-related concerns. It provides a structured platform for degree clearance, complaints, lost and found items, and exam queries, ensuring efficiency and transparency for students, faculty, and administrative staff.  
+TrackLite Admin Dashboard is a powerful tool designed for HITEC University to **manage and resolve university-related issues efficiently**. This dashboard provides administrators with a structured system to oversee **degree clearance, complaints, lost and found items, and exam queries**, ensuring a smooth workflow for the university staff.  
 
 🔗 GitHub Repository: [TrackLite-HITEC-Admin](https://github.com/ChShehroz/Tracklite-HITEC-Admin/)  
 
 ## ✨ Key Features  
 
-- Degree Clearance – Automated application processing with real-time status updates.  
-- Complaints Management – Submit and track complaints with transparency.  
-- Lost and Found – Report and claim lost items efficiently.  
-- Exam Queries – Easy communication with the examination department.  
-- User Authentication – Secure login system for different user roles.  
-- Responsive UI – Optimized for various devices.  
-- Real-time Notifications – Keeps users updated on their issue status.  
+- **Issue Management** – View, track, and resolve student-submitted issues.  
+- **Degree Clearance** – Process and approve degree clearance applications.  
+- **Complaints Handling** – Manage and respond to student complaints efficiently.  
+- **Lost and Found** – Oversee reported lost items and their recovery status.  
+- **Exam Queries** – Respond to exam-related inquiries from students.  
+- **User Authentication** – Secure access for authorized university staff.  
+- **Real-time Notifications** – Instant updates on issue status.  
+- **Analytics Dashboard** – Provides insights and reports on issue resolution.  
+- **Responsive UI** – Optimized for all screen sizes.  
 
 ## 🛠️ Technologies Used  
 
 ### Frontend  
 - React.js (Modern UI & Component-Based Architecture)  
+- Tailwind CSS / Chakra UI (Responsive Styling)  
 
 ### Backend  
-- Node.js with Express (Robust API & Server-side Logic)  
+- Node.js with Express (RESTful API & Server-side Logic)  
 
 ### Database  
-- MongoDB (Efficient Data Storage & Retrieval)  
+- MongoDB (Data Storage & Management)  
 
 ## 🚀 Installation & Setup  
 
