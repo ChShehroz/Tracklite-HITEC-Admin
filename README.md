@@ -21,7 +21,7 @@ TrackLite Admin Dashboard is a powerful tool designed for HITEC University to **
 
 ### Frontend  
 - React.js (Modern UI & Component-Based Architecture)  
-- Tailwind CSS / Chakra UI (Responsive Styling)  
+- Tailwind CSS    
 
 ### Backend  
 - Node.js with Express (RESTful API & Server-side Logic)  
